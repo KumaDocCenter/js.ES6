@@ -5,8 +5,8 @@ updated: 2018-12-19 16:19:38
 mathjax: false
 categories: 
 tags:
-typora-root-url: es6_img
-typora-copy-images-to: es6_img
+typora-root-url: ECMAScript6
+typora-copy-images-to: ECMAScript6
 top: 
 ---
 
