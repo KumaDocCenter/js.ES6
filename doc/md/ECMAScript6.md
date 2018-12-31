@@ -7,7 +7,7 @@ categories:
 tags:
 typora-root-url: ECMAScript6
 typora-copy-images-to: ECMAScript6
-top: 
+top: 1
 ---
 
 
