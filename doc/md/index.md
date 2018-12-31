@@ -16,7 +16,7 @@ top: 0
 # 索引
 
 ## ECMAScript 6 简介
-[本地预览](es6简介.md)    [Blog](http://blog.kuma8866.top/posts/3811458831/)     [Github](https://github.com/KumaDocCenter/js.ES6/blob/master/doc/md/es6简介.md)
+[本地预览](ECMAScript6.md)    [Blog](http://blog.kuma8866.top/posts/3811458831/)     [Github](https://github.com/KumaDocCenter/js.ES6/blob/master/doc/md/ECMAScript6.md)
 
  
 
